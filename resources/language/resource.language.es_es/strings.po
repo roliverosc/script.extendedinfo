@@ -352,12 +352,12 @@ msgstr "Estreno"
 #: \resources\lib\TheMovieDB.py:871
 msgctxt "#32072"
 msgid "Post production"
-msgstr "En Post-producción"
+msgstr "En post-producción"
 
 #: \resources\lib\TheMovieDB.py:872
 msgctxt "#32073"
 msgid "In production"
-msgstr "En Producción"
+msgstr "En producción"
 
 #: \resources\lib\TheMovieDB.py:873
 msgctxt "#32074"
@@ -494,7 +494,7 @@ msgstr "Filtros"
 
 msgctxt "#32106"
 msgid "Choose filter behaviour"
-msgstr "Seleccione comportamiento para filtrado"
+msgstr "Seleccione comportamiento de filtrado"
 
 msgctxt "#32107"
 msgid "Add to list"
@@ -691,11 +691,11 @@ msgstr "País de certificación"
 
 msgctxt "#32154"
 msgid "Star"
-msgstr ""
+msgstr "Me gusta"
 
 msgctxt "#32155"
 msgid "UnStar"
-msgstr ""
+msgstr "No me gusta"
 
 msgctxt "#32156"
 msgid "Person"
@@ -743,7 +743,7 @@ msgstr "Añadir a SickBeard"
 
 msgctxt "#32167"
 msgid "Reviews"
-msgstr "Criticas"
+msgstr "Críticas"
 
 msgctxt "#32168"
 msgid "Releases"
