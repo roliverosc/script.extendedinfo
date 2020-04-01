@@ -84,7 +84,7 @@ msgstr "Fallecimiento"
 
 msgctxt "#32014"
 msgid "Place of birth"
-msgstr "Lugar de nacimiento"
+msgstr "Nacido en"
 
 msgctxt "#32015"
 msgid "Adult actor"
@@ -92,7 +92,7 @@ msgstr "Actor para adultos"
 
 msgctxt "#32016"
 msgid "Also known as"
-msgstr "También conocido/a como"
+msgstr "También conocido(a) como"
 
 msgctxt "#32017"
 msgid "Homepage"
@@ -332,12 +332,12 @@ msgstr "Cantidad de días"
 #: \resources\lib\DialogYoutubeList.py:24
 msgctxt "#32068"
 msgid "Amount of videos"
-msgstr "Cantidad de videos"
+msgstr "Cantidad de vídeos"
 
 #: \resources\lib\DialogYoutubeList.py:191
 msgctxt "#32069"
 msgid "Show similar videos"
-msgstr "Mostrar videos similares"
+msgstr "Mostrar vídeos similares"
 
 #: /resources/lib/dialogs/DialogBaseInfo.py:149
 msgctxt "#32070"
@@ -707,7 +707,7 @@ msgstr "Creado en"
 
 msgctxt "#32158"
 msgid "Birthday today!"
-msgstr "Hoy es su cumpleaños!!!"
+msgstr "¡Hoy es su cumpleaños!"
 
 msgctxt "#32159"
 msgid "Language for TheMovieDB requests"
@@ -715,11 +715,11 @@ msgstr "Idioma para peticiones a TheMovieDB"
 
 msgctxt "#32160"
 msgid "TheMovieDB username"
-msgstr "Usuario TheMovieDB"
+msgstr "Usuario:"
 
 msgctxt "#32161"
 msgid "TheMovieDB password"
-msgstr "Contraseña TheMovieDB"
+msgstr "Contraseña:"
 
 msgctxt "#32162"
 msgid "Include adult actors / movies"
@@ -731,7 +731,7 @@ msgstr "Abrir InfoDialog por defecto"
 
 msgctxt "#32164"
 msgid "Delete cache"
-msgstr "Eliminar cache"
+msgstr "Eliminar caché"
 
 msgctxt "#32165"
 msgid "Add to CouchPotato"
