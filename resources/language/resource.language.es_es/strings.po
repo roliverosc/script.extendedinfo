@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: XBMC-Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-10-26 17:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE\n"
+"PO-Revision-Date: 2020-04-13 HO:MI+ZONE\n"
+"Last-Translator: roliverosc <roliverosc@gmail.com>\n"
+"Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -84,7 +84,7 @@ msgstr "Fallecimiento"
 
 msgctxt "#32014"
 msgid "Place of birth"
-msgstr "Nacido en"
+msgstr "Nacido(a) en"
 
 msgctxt "#32015"
 msgid "Adult actor"
@@ -205,7 +205,7 @@ msgstr "Programas TV populares"
 #: /plugin.py:36 /plugin.py:45
 msgctxt "#32042"
 msgid "In-cinema movies"
-msgstr "Películas en Cines"
+msgstr "Películas en cines"
 
 #: /plugin.py:46 /plugin.py:39
 msgctxt "#32043"
@@ -322,7 +322,7 @@ msgstr "Un año"
 #: \resources\skins\Default\1080i\script-script.extendedinfo-YoutubeList.xml:518
 msgctxt "#32066"
 msgid "2D / 3D"
-msgstr ""
+msgstr "2D / 3D"
 
 #: \resources\lib\DialogYoutubeList.py:59
 msgctxt "#32067"
@@ -550,7 +550,7 @@ msgstr "En YouTube"
 
 msgctxt "#32119"
 msgid "Artwork"
-msgstr ""
+msgstr "Ilustraciones"
 
 msgctxt "#32120"
 msgid "Movie actor roles"
