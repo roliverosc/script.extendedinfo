@@ -84,7 +84,7 @@ msgstr "Fallecimiento"
 
 msgctxt "#32014"
 msgid "Place of birth"
-msgstr "Nacido(a) en"
+msgstr "Lugar"
 
 msgctxt "#32015"
 msgid "Adult actor"
